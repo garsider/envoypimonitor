@@ -1,4 +1,6 @@
 # envoypimonitor
+
+**** I AM NOT A PROGRAMMER *** 
 Realtime and historical monitoring of envoy system
 
 You need python and sqlite3 installed.  I have used apache for my web server but you can choose what you want.  Just update the path in the makepage.py file.
